@@ -1,0 +1,13 @@
+{
+    "name": "esmi/logger",
+    "description": "A logger library.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"Esmi\\": "src/"}
+    }
+
+}
