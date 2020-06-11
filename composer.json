@@ -7,7 +7,7 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": {"Esmi\\Logger": "src/"}
+        "psr-4": {"Esmi\\Logger\\": "src/"}
     }
 
 }
